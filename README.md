@@ -1,6 +1,6 @@
 ### Olá! Me chamo Leonardo.
 
-- 🔭 Estudante de Sistemas para Internet
+- 🔭 Estudante de Sistemas para Internet - IFRS Campus Porto Alegre.
 - 🌱 Estudando Java e ferramentas DevOps.
 <div align="center">
   <a href="https://github.com/leonardogoandete">
