@@ -3,10 +3,14 @@
 - 🔭 Estudante de Sistemas para Internet - IFRS Campus Porto Alegre.
 - 🌱 Estudando Java e ferramentas DevOps.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogoandete)](https://github.com/leonardogoandete/github-readme-stats)
-//
-<div align="center">
-  <a href="https://github.com/leonardogoandete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardogoandete&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogoandete&layout=compact&langs_count=7&theme=dark"/>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardogoandete&show_icons=true&theme=radical&locale=en" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogoandete&layout=compact&theme=radical&card_height=500px" />
+  </a>
 </div>
+
